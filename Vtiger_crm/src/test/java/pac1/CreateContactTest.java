@@ -12,4 +12,7 @@ public class CreateContactTest {
 		System.out.println("hello message from kylerblood");
 		System.out.println("2nd message from hound");
 	}
+	public void hellofromTL() {
+		System.out.println("todays message from tl");
+	}
 }
