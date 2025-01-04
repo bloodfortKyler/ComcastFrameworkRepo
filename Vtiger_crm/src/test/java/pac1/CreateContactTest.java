@@ -4,7 +4,7 @@ public class CreateContactTest {
 
 	public void blood() {
 		System.out.println("message of team lead");
-		System.out.println("todays message from the bloodfort");
+		System.out.println("tomorrow message from the bloodfort");
 	}
 	
  
